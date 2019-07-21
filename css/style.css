@@ -67,8 +67,8 @@ ol {
 	Helper CSS
 -----------------------*/
 .spad {
-	padding-top: 125px;
-	padding-bottom: 110px;
+	padding-top: 75px;
+	padding-bottom: 75px;
 }
 
 .section-title h2 {
@@ -894,9 +894,9 @@ ol {
 
 .home-three-style .social-links,
 .home-four-style .social-links {
-	text-align: center;
-	padding-bottom: 70px;
-	padding-top: 120px;
+	text-align: left;
+    padding-bottom: 70px;
+    padding-top: 40px;
 }
 
 .home-three-style .social-links a,

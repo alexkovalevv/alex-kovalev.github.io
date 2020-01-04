@@ -500,7 +500,9 @@ ol {
 }
 
 .resume-list li {
-    margin-bottom: 120px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px dashed #222;
     position: relative;
 }
 
@@ -822,6 +824,7 @@ ol {
 .home-three-style .resume-list li,
 .home-four-style .resume-list li {
     padding-left: 0;
+
 }
 
 .home-three-style .resume-list li:after,
